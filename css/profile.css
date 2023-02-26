@@ -1,0 +1,44 @@
+.content{
+    margin-top: 130px;
+    height: 560px;
+    background: white;
+}
+
+/*
+#info{
+    background: rgb(15, 168, 28);
+    color: black;
+    text-align: center;
+    height: 547px;
+    margin-top: 150px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: yellow;
+}
+
+.info-photo{
+    padding: 20px;
+}
+
+.info-photo img{
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    border: 7px solid black;
+}
+
+.info-data{
+    width: 350px;
+    padding: 20px;
+    text-align: justify;
+    margin-top: 50px;
+}
+*/
+
